@@ -1,0 +1,232 @@
+\select@language {french}
+\contentsline {part}{Qu'est-ce que Wordpress?}{6}
+\contentsline {part}{I\hspace {1em}Installer Wordpress}{7}
+\contentsline {section}{\numberline {1}O\IeC {\`u} trouver Wordpress?}{8}
+\contentsline {subsection}{\numberline {1.1}T\IeC {\'e}l\IeC {\'e}charger Wordpress}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {subsection}{\numberline {1.2}D\IeC {\'e}compresser l'archive t\IeC {\'e}l\IeC {\'e}charg\IeC {\'e}e}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {paragraph}{}{10}
+\contentsline {section}{\numberline {2}H\IeC {\'e}berger son site Wordpress}{11}
+\contentsline {subsection}{\numberline {2.1}Qu'est-ce qu'un h\IeC {\'e}bergement?}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {paragraph}{}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {subsection}{\numberline {2.2}Un H\IeC {\'e}bergement mutualis\IeC {\'e} abordable : OVH}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {subsection}{\numberline {2.3}Comprendre les information envoy\IeC {\'e}e par l'h\IeC {\'e}bergeur}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {paragraph}{}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {section}{\numberline {3}Transf\IeC {\'e}rer les fichiers de Wordpress sur un h\IeC {\'e}bergement mutualis\IeC {\'e}}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {subsection}{\numberline {3.1}Qu'est-ce qu'un client FTP?}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {subsection}{\numberline {3.2}Un client FTP libre et gratuit: FileZilla}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {subsubsection}{\numberline {3.2.1}Installer FileZilla sous Microsoft Windows}{15}
+\contentsline {paragraph}{}{15}
+\contentsline {paragraph}{}{15}
+\contentsline {paragraph}{}{15}
+\contentsline {paragraph}{}{15}
+\contentsline {paragraph}{}{16}
+\contentsline {paragraph}{}{16}
+\contentsline {paragraph}{}{16}
+\contentsline {paragraph}{}{16}
+\contentsline {paragraph}{}{16}
+\contentsline {paragraph}{}{16}
+\contentsline {paragraph}{}{17}
+\contentsline {paragraph}{}{17}
+\contentsline {paragraph}{}{17}
+\contentsline {paragraph}{}{17}
+\contentsline {paragraph}{}{18}
+\contentsline {paragraph}{}{18}
+\contentsline {paragraph}{}{18}
+\contentsline {paragraph}{}{18}
+\contentsline {paragraph}{}{19}
+\contentsline {paragraph}{}{19}
+\contentsline {paragraph}{}{19}
+\contentsline {subsubsection}{\numberline {3.2.2}Installer FileZilla sous Linux Ubuntu}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {paragraph}{}{21}
+\contentsline {paragraph}{}{21}
+\contentsline {paragraph}{}{21}
+\contentsline {paragraph}{}{21}
+\contentsline {paragraph}{}{21}
+\contentsline {paragraph}{}{21}
+\contentsline {paragraph}{}{22}
+\contentsline {paragraph}{}{22}
+\contentsline {subsection}{\numberline {3.3}Tour d'horizon de FileZilla}{22}
+\contentsline {subsubsection}{\numberline {3.3.1}Premier d\IeC {\'e}marrage}{22}
+\contentsline {paragraph}{}{22}
+\contentsline {subsubsection}{\numberline {3.3.2}D\IeC {\'e}cryptage de l'interface}{22}
+\contentsline {paragraph}{}{22}
+\contentsline {paragraph}{}{23}
+\contentsline {paragraph}{}{23}
+\contentsline {paragraph}{}{23}
+\contentsline {paragraph}{}{23}
+\contentsline {paragraph}{}{24}
+\contentsline {subsection}{\numberline {3.4}Transf\IeC {\'e}rer les fichiers du site Wordpress sur l'h\IeC {\'e}bergement Mutualis\IeC {\'e}}{24}
+\contentsline {paragraph}{}{24}
+\contentsline {subsubsection}{\numberline {3.4.1}Connexion au serveur FTP}{24}
+\contentsline {paragraph}{}{24}
+\contentsline {paragraph}{}{24}
+\contentsline {paragraph}{}{24}
+\contentsline {paragraph}{}{24}
+\contentsline {paragraph}{}{25}
+\contentsline {subsubsection}{\numberline {3.4.2}Transfert des fichiers}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {paragraph}{}{26}
+\contentsline {paragraph}{}{27}
+\contentsline {paragraph}{}{27}
+\contentsline {paragraph}{}{28}
+\contentsline {paragraph}{}{28}
+\contentsline {section}{\numberline {4}Installer Wordpress}{29}
+\contentsline {paragraph}{}{29}
+\contentsline {paragraph}{}{29}
+\contentsline {paragraph}{}{29}
+\contentsline {paragraph}{}{29}
+\contentsline {paragraph}{}{29}
+\contentsline {paragraph}{}{29}
+\contentsline {paragraph}{}{29}
+\contentsline {paragraph}{}{30}
+\contentsline {paragraph}{}{30}
+\contentsline {paragraph}{}{30}
+\contentsline {paragraph}{}{30}
+\contentsline {paragraph}{}{31}
+\contentsline {paragraph}{}{31}
+\contentsline {paragraph}{}{32}
+\contentsline {paragraph}{}{32}
+\contentsline {paragraph}{}{32}
+\contentsline {paragraph}{}{33}
+\contentsline {part}{II\hspace {1em}Premiers pas avec Wordpress}{34}
+\contentsline {section}{\numberline {5}Tour d'horizon de Wordpress}{35}
+\contentsline {paragraph}{}{35}
+\contentsline {subsection}{\numberline {5.1}Le "Front-Office"}{35}
+\contentsline {paragraph}{}{35}
+\contentsline {paragraph}{}{35}
+\contentsline {paragraph}{}{35}
+\contentsline {paragraph}{}{35}
+\contentsline {paragraph}{}{35}
+\contentsline {subsection}{\numberline {5.2}Le "Back-Office"}{35}
+\contentsline {paragraph}{}{35}
+\contentsline {paragraph}{}{36}
+\contentsline {paragraph}{}{36}
+\contentsline {paragraph}{}{36}
+\contentsline {section}{\numberline {6}G\IeC {\'e}n\IeC {\'e}rer des permaliens plus propres}{37}
+\contentsline {paragraph}{}{37}
+\contentsline {paragraph}{}{37}
+\contentsline {paragraph}{}{37}
+\contentsline {paragraph}{}{37}
+\contentsline {paragraph}{}{37}
+\contentsline {paragraph}{}{37}
+\contentsline {paragraph}{}{38}
+\contentsline {section}{\numberline {7}Effectuer les mises \IeC {\`a} jour de Wordpress}{39}
+\contentsline {paragraph}{}{39}
+\contentsline {paragraph}{}{39}
+\contentsline {paragraph}{}{39}
+\contentsline {paragraph}{}{39}
+\contentsline {paragraph}{}{39}
+\contentsline {subsection}{\numberline {7.1}Mises \IeC {\`a} jour du core (c\IeC {\oe }ur) de Wordpress}{39}
+\contentsline {paragraph}{}{39}
+\contentsline {paragraph}{}{40}
+\contentsline {subsection}{\numberline {7.2}Mises \IeC {\`a} jour des extensions}{40}
+\contentsline {paragraph}{}{40}
+\contentsline {paragraph}{}{40}
+\contentsline {subsection}{\numberline {7.3}Mises \IeC {\`a} jour des th\IeC {\`e}mes}{40}
+\contentsline {paragraph}{}{40}
+\contentsline {paragraph}{}{41}
+\contentsline {subsection}{\numberline {7.4}Mises \IeC {\`a} jour des traductions}{41}
+\contentsline {paragraph}{}{41}
+\contentsline {paragraph}{}{41}
+\contentsline {paragraph}{}{42}
+\contentsline {part}{III\hspace {1em}Les publications}{43}
+\contentsline {section}{\numberline {8}Les articles}{44}
+\contentsline {subsection}{\numberline {8.1}Ajouter, \IeC {\'e}diter ou supprimer un article}{44}
+\contentsline {subsection}{\numberline {8.2}Le contenu de l'article}{44}
+\contentsline {subsubsection}{\numberline {8.2.1}Les paragraphes}{44}
+\contentsline {subsubsection}{\numberline {8.2.2}Les niveaux de titres}{44}
+\contentsline {subsubsection}{\numberline {8.2.3}Les listes \IeC {\`a} puces}{44}
+\contentsline {subsubsection}{\numberline {8.2.4}Les listes num\IeC {\'e}rot\IeC {\'e}es}{44}
+\contentsline {subsubsection}{\numberline {8.2.5}Les liens internes}{44}
+\contentsline {subsubsection}{\numberline {8.2.6}Les liens externes}{44}
+\contentsline {subsubsection}{\numberline {8.2.7}Les liens de t\IeC {\'e}l\IeC {\'e}chargement}{44}
+\contentsline {section}{\numberline {9}La Taxonomie}{45}
+\contentsline {section}{\numberline {10}Les pages}{46}
+\contentsline {section}{\numberline {11}Les m\IeC {\'e}dias}{47}
+\contentsline {subsection}{\numberline {11.1}L'image \IeC {\`a} la une}{47}
+\contentsline {subsection}{\numberline {11.2}Les images}{48}
+\contentsline {subsection}{\numberline {11.3}Ins\IeC {\'e}rer une galerie d'images}{49}
+\contentsline {subsection}{\numberline {11.4}Ins\IeC {\'e}rer un fichier audio}{50}
+\contentsline {subsection}{\numberline {11.5}Ins\IeC {\'e}rer une liste de lecture audio}{51}
+\contentsline {subsection}{\numberline {11.6}Ins\IeC {\'e}rer une vid\IeC {\'e}o}{52}
+\contentsline {subsection}{\numberline {11.7}Ins\IeC {\'e}rer une liste de lecture vid\IeC {\'e}o}{53}
+\contentsline {subsection}{\numberline {11.8}Ins\IeC {\'e}rer une vid\IeC {\'e}o depuis une plate-forme externe}{54}
+\contentsline {part}{IV\hspace {1em}La gestion des menus}{55}
+\contentsline {subsection}{\numberline {11.9}Le menu}{56}
+\contentsline {subsection}{\numberline {11.10}Cr\IeC {\'e}er un nouveau menu}{57}
+\contentsline {subsection}{\numberline {11.11}Organiser le menu}{58}
+\contentsline {part}{V\hspace {1em}La gestion des utilisateurs}{59}
+\contentsline {section}{\numberline {12}Les r\IeC {\^o}les}{60}
+\contentsline {section}{\numberline {13}Ajouter, \IeC {\'e}diter ou supprimer un utilisateur}{61}
+\contentsline {part}{VI\hspace {1em}La gestion des extensions}{62}
+\contentsline {section}{\numberline {14}G\IeC {\'e}rer les extensions existantes}{63}
+\contentsline {section}{\numberline {15}Installer de nouvelles extensions}{64}
+\contentsline {section}{\numberline {16}Connecter son site sur les r\IeC {\'e}seaux sociaux avec Hupso Share Buttons}{65}
+\contentsline {section}{\numberline {17}Ajouter un formulaire de contact gr\IeC {\^a}ce Formidables Forms}{66}
+\contentsline {subsection}{\numberline {17.1}Cr\IeC {\'e}er un formulaire de contact}{66}
+\contentsline {subsection}{\numberline {17.2}Ins\IeC {\'e}rer le formulaire de contact sur une page}{66}
+\contentsline {subsection}{\numberline {17.3}Cr\IeC {\'e}er un autre formulaire}{66}
+\contentsline {section}{\numberline {18}Ajouter un gestionnaire d'\IeC {\'e}v\IeC {\'e}nements avec The Events Calendar}{67}
+\contentsline {subsection}{\numberline {18.1}Configuration de The Events Calendar}{67}
+\contentsline {subsection}{\numberline {18.2}G\IeC {\'e}rer les lieux et les organisateurs}{67}
+\contentsline {subsection}{\numberline {18.3}G\IeC {\'e}rer les cat\IeC {\'e}gories d'\IeC {\'e}v\IeC {\'e}nements}{67}
+\contentsline {subsection}{\numberline {18.4}Cr\IeC {\'e}er des \IeC {\'e}v\IeC {\'e}nements}{67}
+\contentsline {subsection}{\numberline {18.5}Afficher le calendrier sur le front-office (liste, mois, jour)}{67}
+\contentsline {section}{\numberline {19}Ajouter un syst\IeC {\`e}me de newsletters avec MailPoet Newsletters}{68}
+\contentsline {subsection}{\numberline {19.1}G\IeC {\'e}rer les listes}{68}
+\contentsline {subsection}{\numberline {19.2}Afficher un formulaire d'inscription dans une page}{68}
+\contentsline {subsection}{\numberline {19.3}Cr\IeC {\'e}er une newsletter}{68}
+\contentsline {part}{VII\hspace {1em}La gestion des widgets}{69}
+\contentsline {section}{\numberline {20}G\IeC {\'e}rer les widgets existants}{70}
+\contentsline {section}{\numberline {21}D\IeC {\'e}tecter les zones de widget}{71}
+\contentsline {section}{\numberline {22}Placer un nouveau widget}{72}
+\contentsline {subsection}{\numberline {22.1}Placer le widget MailPoet Newsletters}{72}
+\contentsline {subsection}{\numberline {22.2}Placer le widget The Events Calendar}{72}
+\contentsline {part}{VIII\hspace {1em}La gestion des th\IeC {\`e}mes}{73}
+\contentsline {section}{\numberline {23}Qu'est-ce que le th\IeC {\`e}me?}{74}
+\contentsline {section}{\numberline {24}Comment changer de th\IeC {\`e}me?}{75}
+\contentsline {section}{\numberline {25}T\IeC {\'e}l\IeC {\'e}charger et installer un nouveau th\IeC {\`e}me}{76}
+\contentsline {section}{\numberline {26}Configurer un nouveau th\IeC {\`e}me}{77}
+\contentsline {part}{IX\hspace {1em}Optimiser le r\IeC {\'e}f\IeC {\'e}rencement de son site Wordpress}{77}
+\contentsline {section}{\numberline {27}Ajouter un plan du site avec WP Sitemap Page}{78}
+\contentsline {section}{\numberline {28}Ajouter une liste d'articles similaires en bas de chaque articles}{79}
+\contentsline {part}{X\hspace {1em}Sauvegarde et restauration}{80}
+\contentsline {section}{\numberline {29}Installation du plugin Backup Wordpress}{81}
+\contentsline {section}{\numberline {30}Configuration et utilisation de Backup Wordpress}{82}
+\contentsline {section}{\numberline {31}Restauration d'un site depuis une archive Backup Wordpress}{83}
+\contentsline {part}{Annexe(s)}{83}
+\contentsline {section}{\numberline {32}Louer et utiliser une h\IeC {\'e}bergement mutualis\IeC {\'e} OVH}{84}
